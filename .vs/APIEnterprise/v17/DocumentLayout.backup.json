@@ -1,0 +1,697 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\utils\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\utils\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\authentication\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\authentication\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\authentication\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\authentication\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\authentication\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\authentication\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\authentication\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\authentication\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\profiles\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\profiles\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\profiles\\employeedtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\profiles\\employeedtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\migrations\\20260517034527_ajusteapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\migrations\\20260517034527_ajusteapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\apienterprise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\apienterprise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\pagination\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\pagination\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\pagination\\departmentnamefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\pagination\\departmentnamefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\pagination\\employeesbirthdatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\pagination\\employeesbirthdatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\pagination\\employeesparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\pagination\\employeesparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\pagination\\departmentparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\pagination\\departmentparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\employeedtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\employeedtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|c:\\sites\\aulas-chsarp-macoratii\\apienterprise\\apienterprise\\dtos\\profiles\\departmentdtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BBF11-B5D7-4890-8B25-67E4C70A8ED5}|APIEnterprise\\APIEnterprise.csproj|solutionrelative:apienterprise\\dtos\\profiles\\departmentdtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Repository.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:14:51.455Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\appsettings.json",
+              "RelativeDocumentMoniker": "APIEnterprise\\appsettings.json",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\appsettings.json",
+              "RelativeToolTip": "APIEnterprise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T23:38:44.223Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Program.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Program.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Program.cs",
+              "RelativeToolTip": "APIEnterprise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T23:40:21.923Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "APIEnterprise\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T02:47:48.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "APIEnterprise\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:26:46.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Services\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "APIEnterprise\\Services\\Interfaces\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T02:58:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Services\\LoginService.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\LoginService.cs",
+              "RelativeToolTip": "APIEnterprise\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T02:58:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "APIEnterprise\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T00:19:07.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Services\\TokenService.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\TokenService.cs",
+              "RelativeToolTip": "APIEnterprise\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:36:56.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiExceptionMIddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Utils\\ApiExceptionMIddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Utils\\ApiExceptionMIddlewareExtensions.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Utils\\ApiExceptionMIddlewareExtensions.cs",
+              "RelativeToolTip": "APIEnterprise\\Utils\\ApiExceptionMIddlewareExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:36:59.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "APIEnterprise\\Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:31:16.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260517034527_AjusteApplicationUser.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Migrations\\20260517034527_AjusteApplicationUser.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Migrations\\20260517034527_AjusteApplicationUser.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Migrations\\20260517034527_AjusteApplicationUser.cs",
+              "RelativeToolTip": "APIEnterprise\\Migrations\\20260517034527_AjusteApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:45:38.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "APIEnterprise\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T01:45:39.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "APIEnterprise\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:53:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\Authentication\\LoginDTO.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\LoginDTO.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\Authentication\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:55:20.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\Authentication\\RegisterDTO.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\RegisterDTO.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\Authentication\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:57:53.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\Authentication\\TokenDTO.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\TokenDTO.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\Authentication\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:59:56.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\Authentication\\ResponseDTO.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Authentication\\ResponseDTO.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\Authentication\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:01:59.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "APIEnterprise\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:32:21.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeDTOProfile.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Profiles\\EmployeeDTOProfile.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\Profiles\\EmployeeDTOProfile.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Profiles\\EmployeeDTOProfile.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\Profiles\\EmployeeDTOProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:20:30.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "APIEnterprise\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:35:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Profiles\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\Profiles\\MapsterConfig.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Profiles\\MapsterConfig.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\Profiles\\MapsterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T02:26:38.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APIEnterprise\\appsettings.Development.json",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\appsettings.Development.json",
+              "RelativeToolTip": "APIEnterprise\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-14T21:55:04.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\PagedList.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Pagination\\PagedList.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\PagedList.cs",
+              "RelativeToolTip": "APIEnterprise\\Pagination\\PagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T01:56:12.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:00:09.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "APIEnterprise.csproj",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\APIEnterprise.csproj",
+              "RelativeDocumentMoniker": "APIEnterprise\\APIEnterprise.csproj",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\APIEnterprise.csproj",
+              "RelativeToolTip": "APIEnterprise\\APIEnterprise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-16T01:55:50.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:33:43.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:33:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:53:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:06:38.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:11:16.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Pagination\\PaginationParams.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\PaginationParams.cs",
+              "RelativeToolTip": "APIEnterprise\\Pagination\\PaginationParams.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:47:13.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentNameFilter.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\DepartmentNameFilter.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Pagination\\DepartmentNameFilter.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\DepartmentNameFilter.cs",
+              "RelativeToolTip": "APIEnterprise\\Pagination\\DepartmentNameFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T00:10:33.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "APIEnterprise\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:19:06.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Models\\DepartmentModel.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "APIEnterprise\\Models\\DepartmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T00:10:41.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApiExceptionFilter.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Filters\\ApiExceptionFilter.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Filters\\ApiExceptionFilter.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Filters\\ApiExceptionFilter.cs",
+              "RelativeToolTip": "APIEnterprise\\Filters\\ApiExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:37:31.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmployeesBirthDateFilter.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\EmployeesBirthDateFilter.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Pagination\\EmployeesBirthDateFilter.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\EmployeesBirthDateFilter.cs",
+              "RelativeToolTip": "APIEnterprise\\Pagination\\EmployeesBirthDateFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:15:15.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmployeesParams.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\EmployeesParams.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Pagination\\EmployeesParams.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\EmployeesParams.cs",
+              "RelativeToolTip": "APIEnterprise\\Pagination\\EmployeesParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:46:58.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DepartmentParams.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\DepartmentParams.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Pagination\\DepartmentParams.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Pagination\\DepartmentParams.cs",
+              "RelativeToolTip": "APIEnterprise\\Pagination\\DepartmentParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:47:23.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "APIEnterprise\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:55:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeeDTOUpdate.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\EmployeeDTOUpdate.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\EmployeeDTOUpdate.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\EmployeeDTOUpdate.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\EmployeeDTOUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:58:09.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DepartmentDTOProfile.cs",
+              "DocumentMoniker": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Profiles\\DepartmentDTOProfile.cs",
+              "RelativeDocumentMoniker": "APIEnterprise\\DTOs\\Profiles\\DepartmentDTOProfile.cs",
+              "ToolTip": "C:\\sites\\aulas-chsarp-macoratii\\APIEnterprise\\APIEnterprise\\DTOs\\Profiles\\DepartmentDTOProfile.cs",
+              "RelativeToolTip": "APIEnterprise\\DTOs\\Profiles\\DepartmentDTOProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:34:51.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
