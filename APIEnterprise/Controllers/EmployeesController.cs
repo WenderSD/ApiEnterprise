@@ -15,10 +15,10 @@ namespace APIEnterprise.Controllers
     [ApiController]
     public class EmployeesController : ControllerBase
     {
-        private readonly IUnitOfWork _UnitOfWork;
+        private readonly IUnitOfWork<EmployeeModel> _UnitOfWork;
         private readonly IMapper _mapper;
         private readonly ILogger _logger;
-        public EmployeesController(IUnitOfWork unitOfWork, IMapper mapper, ILogger<EmployeesController> logger)
+        public EmployeesController(IUnitOfWork<EmployeeModel> unitOfWork, IMapper mapper, ILogger<EmployeesController> logger)
         {
             _UnitOfWork = unitOfWork;
             _mapper = mapper;

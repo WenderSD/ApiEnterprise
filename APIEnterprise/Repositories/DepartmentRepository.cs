@@ -34,13 +34,7 @@ namespace APIEnterprise.Repositories
 
             return employeesDept;
         }
-
-        public async Task<IPagedList<DepartmentModel>> GetAllDepartmentsAsync(DepartmentParams pagParams)
-        {
-            var depts = await GetAllAsync();
-            return await depts.ToPagedListAsync(pagParams.PageNumber, pagParams.PageSize);
-        }
-
+        
         public async Task<IPagedList<DepartmentModel>> GetDepartmentsNameFilterAsync(DepartmentNameFilter deptFilter)
         {
             var depts = await GetAllAsync();

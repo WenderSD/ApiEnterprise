@@ -72,7 +72,7 @@ builder.Services.AddScoped<ApiLoggingFilter>();
 builder.Services.AddHybridCache();
 builder.Services.AddStackExchangeRedisCache(options =>
 {
-    options.Configuration = "elegant-wire-stick-18598.db.redis.io:18421";
+    options.Configuration = "127.0.0.1:6379";
 });
 
 #region Sevice DI's
@@ -83,7 +83,7 @@ builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 #endregion
 
 #region Repository DI's
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped(typeof(IUnitOfWork<>), typeof(UnitOfWork<>));
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();

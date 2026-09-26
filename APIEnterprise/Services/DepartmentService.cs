@@ -1,20 +1,21 @@
 ﻿using APIEnterprise.DTOs;
 using APIEnterprise.Models;
+using APIEnterprise.Pagination;
 using APIEnterprise.Repositories.Interfaces;
 using APIEnterprise.Services.Interfaces;
 using Mapster;
 
 namespace APIEnterprise.Services;
 
-public class DepartmentService : IDepartmentService
+public class DepartmentService : BaseService<DepartmentModel>, IDepartmentService
 {
-    private readonly IUnitOfWork _unitOfWork;
+    private readonly IUnitOfWork<DepartmentModel> _unitOfWork;
     private readonly ICacheService _cacheService;
     private readonly ILogger _logger;
 
-    public DepartmentService(IUnitOfWork unitOfWork,
+    public DepartmentService(IUnitOfWork<DepartmentModel> unitOfWork,
         ICacheService cacheService,
-        ILogger<DepartmentService> logger)
+        ILogger<DepartmentService> logger) : base(unitOfWork.Repository, unitOfWork)
     {
         _unitOfWork = unitOfWork;
         _cacheService = cacheService;
@@ -23,7 +24,7 @@ public class DepartmentService : IDepartmentService
     
     public async Task<DepartmentDTO> GetDepartmentByIdAsync(Guid id)
     {
-        var dept = await _cacheService.GetOrCreateAsync<DepartmentModel>(
+        var dept = await _cacheService.GetOrCreateAsync(
             $"department:{id}",
             async token => await GetFactory(id), 
             TimeSpan.FromMinutes(10)
@@ -37,8 +38,6 @@ public class DepartmentService : IDepartmentService
     private async Task<DepartmentModel> GetFactory(Guid id)
     {
         _logger.LogInformation("Consultando o banco...");
-
-        await Task.Delay(3000, CancellationToken.None);
 
         var dbDept = await _unitOfWork.DepartmentRepository.GetByIdAsync(id);
 

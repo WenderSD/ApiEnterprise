@@ -1,6 +1,8 @@
 ﻿using APIEnterprise.Context;
+using APIEnterprise.Pagination;
 using APIEnterprise.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using X.PagedList;
 
 namespace APIEnterprise.Repositories
 {
@@ -20,6 +22,13 @@ namespace APIEnterprise.Repositories
 
             return models;
         }
+
+         public async Task<IPagedList<T>> GetPagedAsync(PaginationParams pagParams)
+        {
+            var models = await GetAllAsync();
+            return await models.ToPagedListAsync(pagParams.PageNumber, pagParams.PageSize);
+        }
+
 
         public async Task<T> GetByIdAsync(Guid id)
         {

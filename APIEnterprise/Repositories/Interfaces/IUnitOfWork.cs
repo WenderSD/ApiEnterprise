@@ -1,9 +1,10 @@
 ﻿namespace APIEnterprise.Repositories.Interfaces
 {
-    public interface IUnitOfWork
+    public interface IUnitOfWork<T> where T : class
     {
-        public IDepartmentRepository DepartmentRepository { get; }
-        public IEmployeeRepository EmployeeRepository { get; }
+        IRepository<T> Repository { get; }
+        IDepartmentRepository DepartmentRepository { get; }
+        IEmployeeRepository EmployeeRepository { get; }
         Task CommitAsync();
         Task DisposeAsync();
     }

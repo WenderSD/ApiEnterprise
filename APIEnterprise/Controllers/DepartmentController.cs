@@ -16,10 +16,10 @@ namespace APIEnterprise.Controllers
     [ApiController]
     public class DepartmentController : ControllerBase
     {
-        private readonly IUnitOfWork _unitOfWork;
+        private readonly IUnitOfWork<DepartmentModel> _unitOfWork;
         private readonly IDepartmentService _departmentService;
 
-        public DepartmentController(IUnitOfWork unitOfWork,  IDepartmentService departmentService)
+        public DepartmentController(IUnitOfWork<DepartmentModel> unitOfWork,  IDepartmentService departmentService)
         {
             _unitOfWork = unitOfWork;
             _departmentService = departmentService;
@@ -48,7 +48,7 @@ namespace APIEnterprise.Controllers
         {
             try
             {
-                var departments = await _unitOfWork.DepartmentRepository.GetAllDepartmentsAsync(pagParams);
+                var departments = await _departmentService.GetPaged(pagParams);
                 var departmentsDto = departments.Adapt<IEnumerable<DepartmentDTO>>();
                 
                 return Ok(departmentsDto);
